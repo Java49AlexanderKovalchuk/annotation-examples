@@ -1,6 +1,6 @@
 package telran.annotation.examples;
 
-import telran.beforeeach.annotation.BeforeEach;
+import telran.test.annotation.BeforeEach;
 import telran.test.annotation.Test;
 
 public class TestClass {
